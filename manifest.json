@@ -1,0 +1,9 @@
+{
+  "name": "ScreenEffectConfig",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/joshcantcode/ScreenEffectConfig",
+  "description": "Allows for the adjustment of certain visual effects. This can be especially useful for those with disabilities, like epilepsy.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
